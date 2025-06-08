@@ -1,0 +1,1 @@
+git@gitlab.com:ntninja/user-agent-switcher.git
